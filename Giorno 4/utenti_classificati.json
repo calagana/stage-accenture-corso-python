@@ -1,0 +1,18 @@
+[
+    {
+        "nome": "Mario",
+        "eta": 30,
+        "categoria": "Senior"
+    },
+    {
+        "nome": "Anna",
+        "eta": 25,
+        "categoria": "Junior"
+    },
+    {
+        "nome": "Ciccio",
+        "eta": 15,
+        "categoria": "Junior"
+    }
+]
+
