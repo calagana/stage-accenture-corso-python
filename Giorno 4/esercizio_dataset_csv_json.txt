@@ -1,0 +1,8 @@
+nome,eta,citta
+Mario ,30,Roma
+lUca,venti,Milano
+,25,Torino
+Giulia,28,
+aNNa,22,Bologna
+Paolo,29,Napoli
+Sara,26,Firenze
