@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "Mario",
+        "eta": "30",
+        "citta": "Roma",
+        "Seniority": "Senior"
+    },
+    {
+        "nome": "Anna",
+        "eta": "22",
+        "citta": "Bologna",
+        "Seniority": "Junior"
+    },
+    {
+        "nome": "Paolo",
+        "eta": "29",
+        "citta": "Napoli",
+        "Seniority": "Mid"
+    },
+    {
+        "nome": "Sara",
+        "eta": "26",
+        "citta": "Firenze",
+        "Seniority": "Mid"
+    }
+]
